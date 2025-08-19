@@ -16,3 +16,4 @@ def import_github(username: str):
 def import_resume(file: UploadFile = File(...)):
     # TODO: Parse resume PDF
     return {"msg": "Resume import (stub)", "data": {}}
+

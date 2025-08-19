@@ -9,3 +9,4 @@ def fetch_github(username):
 def parse_resume(file):
     # TODO: Parse resume PDF
     return {"name": "John Doe", "education": []}
+

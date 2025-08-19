@@ -21,3 +21,4 @@ def register(req: RegisterRequest):
 def login(req: LoginRequest):
     # TODO: Implement real login
     return {"access_token": "fake-jwt-token", "token_type": "bearer"}
+
